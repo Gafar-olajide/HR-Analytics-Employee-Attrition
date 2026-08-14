@@ -103,19 +103,7 @@ HR-Analytics-Employee-Attrition/
     ├── 03_Workforce_Insights.png
     ├── 04_Compensation_Analysis.png
     └── 05_HR_Insights_Recommendations.png
-
-## 📈 Power BI Dashboard
-
-## 🔎 Key Findings
-
-## 💡 Business Recommendations
-
-## 🧮 SQL Analysis
-
-## 📄 Documentation
-
-## 👤 Author
-
+```
 ---
 
 ## 📈 Power BI Dashboard
