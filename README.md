@@ -101,8 +101,8 @@ HR-Analytics-Employee-Attrition/
 └── Images/
     ├── 01_Executive_Overview.png
     ├── 02_Attrition_Analysis.png
-    ├── 03_Workforce_Insights.png
-    ├── 04_Compensation_Analysis.png
+    ├── 03_Employee_Experience.png
+    ├── 04_Compensation & Workforce.png
     └── 05_HR_Insights_Recommendations.png
 ```
 ---
