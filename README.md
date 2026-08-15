@@ -83,14 +83,15 @@ HR-Analytics-Employee-Attrition/
 ├── README.md
 │
 ├── SQL/
-│   ├── 01_Import_Verification.sql
-│   ├── 02_Data_Quality_Checks.sql
-│   ├── 03_Employee_Workforce_EDA.sql
-│   ├── 04_Attrition_Analysis.sql
-│   └── 05_Advanced_SQL_Analysis.sql
+│   ├── 01_database_setup.sql
+│   ├── 02_data_inspection.sql
+│   ├── 03_data_cleaning.sql
+│   ├── 04_exploratory_data_analysis.sql
+│   ├── 05_business_questions.sql
+│   └── 06_advanced_sql_analysis.sql
 │
 ├── PowerBI/
-│   └── HR_Analytics_Employee_Attrition.pbix
+│   └── HR Employee Attrition Dashboard.pbix
 │
 ├── Documentation/
 │   ├── Executive_Summary.pdf
@@ -418,15 +419,15 @@ These techniques were used to answer business-oriented questions rather than sim
 
 Supporting project documentation is available in the `Documentation` folder.
 
-### Executive Summary***
+### Executive Summary
 
 Provides a concise overview of the project, major findings, and business significance.
 
-### Business Problem & Analytical Objective***
+### Business Problem & Analytical Objective
 
 Defines the HR challenge addressed by the analysis and explains the analytical questions used to investigate employee attrition.
 
-### Insights & Recommendations***
+### Insights & Recommendations
 
 Summarizes the major analytical findings and translates them into practical HR recommendations.
 
