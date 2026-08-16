@@ -437,7 +437,7 @@ Summarizes the major analytical findings and translates them into practical HR r
 
 ### Gafar Olajide
 
-**Data Analyst | Business Intelligence**
+📊 **Data Analyst | Business Intelligence**
 
 I specialize in transforming raw data into actionable business insights using SQL, Power BI, Excel, and statistical analysis.
 
@@ -457,3 +457,13 @@ I specialize in transforming raw data into actionable business insights using SQ
 
 * **LinkedIn:** [Gafar Olajide](https://www.linkedin.com/in/gafar-olajide)
 * **GitHub:** [Gafar-olajide](https://github.com/Gafar-olajide)
+* 📊 Data Analyst
+
+🔗 **LinkedIn:**
+[https://linkedin.com/in/gafar-olajide](https://linkedin.com/in/gafar-olajide)
+
+💻 **GitHub:**
+[https://github.com/Gafar-olajide](https://github.com/Gafar-olajide)
+
+💼 **Notion:** 
+[https://notion.site/Gafar-olajide](https://jungle-jonquil-295.notion.site/Gafar-Olajide-Notion-Portfolio-Data-Analyst-332200ad7ef080a8b098d4f8a2f52df2?source=copy_link)
